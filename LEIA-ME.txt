@@ -1,0 +1,31 @@
+========================================================================
+    SISTEMA DE BACKUP E SINCRONIZACAO INTELIGENTE DO ANTIGRAVITY
+========================================================================
+
+COMO USAR ESTE PACOTE:
+
+1. INSTALACAO RAPIDA:
+   - De dois cliques no arquivo "instalar.bat".
+   - O assistente ira detectar seu Antigravity, encontrar seus projetos Git
+     e criar um atalho na sua Area de Trabalho ("Sincronizar_Antigravity").
+
+2. COMO FAZER O BACKUP:
+   - De dois cliques no atalho da Area de Trabalho ou em "Sincronizar_Drive.bat".
+   - O sistema detecta automaticamente seu OneDrive e Google Drive e salva
+     em ambos simultaneamente!
+
+3. O QUE ESTE SISTEMA SALVA:
+   - Chats e dialogos do Antigravity em Markdown legivel (com resumo e ferramentas).
+   - Dados brutos para restauracao total (transcript.jsonl e SQLite .db).
+   - Pastas dos seus projetos (com criacao de arquivos .zip).
+   - Repositorios Git (com geracao de pacotes .bundle contendo 100% dos commits).
+
+4. COMO PERSONALIZAR:
+   - Abra o arquivo "config.json" com o Bloco de Notas para adicionar
+     seu usuario do GitHub ou novas pastas de projetos.
+
+5. COMO RESTAURAR CONVERSAS EM OUTRO PC:
+   - De dois cliques em "Restaurar_Backup.bat".
+
+Para mais informacoes detalhadas, consulte o arquivo "README.md".
+========================================================================

@@ -1,0 +1,21 @@
+{
+  "antigravity_dir": "",
+  "projects": [
+    "C:\\Users\\SEU_USUARIO\\Documents\\MeuProjeto1",
+    "C:\\Users\\SEU_USUARIO\\Documents\\MeuProjeto2"
+  ],
+  "github_users": [
+    "SEU_USUARIO_GITHUB"
+  ],
+  "git_local_repos": [
+    "C:\\Users\\SEU_USUARIO\\Documents\\MeuProjeto1"
+  ],
+  "custom_destinations": [
+    "D:\\MeusBackups"
+  ],
+  "create_zip_archives": true,
+  "copy_project_folders": true,
+  "export_chat_markdown": true,
+  "export_chat_raw": true,
+  "backup_git_bundles": true
+}
